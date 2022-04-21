@@ -1,0 +1,5 @@
+4
+Rect  1   237   182   412   271   NO_FIll 
+CIRCLE  2   458   403   546   403   NO_FIll 
+TRIANG  3  598  267  639  175  810  365  NO_FIll 
+CIRCLE  4   120   356   145   356   NO_FIll 
